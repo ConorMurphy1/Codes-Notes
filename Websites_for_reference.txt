@@ -1,0 +1,24 @@
+Query Page - Website
+https://www.digitalocean.com/ - Digital Ocean
+https://www.codecademy.com/ - Code Academy
+
+Laravel - Websites
+https://laravel.com/ - Laravel Official Site
+https://www.tutsmake.com/laravel-8-user-activity-log-tutorial/ - Laravel 8 User Activity Log Tutorial
+
+JavaScript - Websites
+https://www.javatpoint.com - site for Javascript
+
+PHP - Website
+https://www.php.net - PHP Net
+
+Datepicker Tips & Tricks - Websites
+https://www.dotnetcurry.com/jquery/1209/jqueryui-datepicker-tips-tricks - jQuery UI DatePicker - Tips and Tricks
+https://www.plus2net.com/jquery/date-picker.php - Date Picker to show calendar for selection of date
+https://ergomania.eu/tips-and-tricks-design-better-date-pickers/ - TIPS AND TRICKS TO DESIGN BETTER DATE PICKERS
+
+Extensions (Ui)
+https://sweetalert2.github.io/ - Sweet Alert
+https://spatie.be/ - Spatie
+https://getbootstrap.com/ - Bootstrap official page
+https://tailwindcss.com/ - TailwindCSS
