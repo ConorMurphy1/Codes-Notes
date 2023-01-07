@@ -22,3 +22,5 @@ https://sweetalert2.github.io/ - Sweet Alert
 https://spatie.be/ - Spatie
 https://getbootstrap.com/ - Bootstrap official page
 https://tailwindcss.com/ - TailwindCSS
+https://sass-lang.com/documentation/ - SASS
+https://datatables.net/ - Datatable
