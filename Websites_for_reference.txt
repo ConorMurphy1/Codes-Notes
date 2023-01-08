@@ -8,6 +8,8 @@ https://www.tutsmake.com/laravel-8-user-activity-log-tutorial/ - Laravel 8 User 
 
 JavaScript - Websites
 https://www.javatpoint.com - site for Javascript
+https://vuejs.org/ - Vue Js
+https://nodejs.org/en/ - Node Js
 
 PHP - Website
 https://www.php.net - PHP Net
