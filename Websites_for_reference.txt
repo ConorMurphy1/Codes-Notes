@@ -24,3 +24,4 @@ https://getbootstrap.com/ - Bootstrap official page
 https://tailwindcss.com/ - TailwindCSS
 https://sass-lang.com/documentation/ - SASS
 https://datatables.net/ - Datatable
+https://daisyui.com/ - Daisy Ui
